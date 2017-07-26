@@ -1,0 +1,124 @@
+** Message: couldn't access control socket: /run/user/1899/keyring/control: No such file or directory
+vmware-user: could not open /proc/fs/vmblock/dev
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x600007 (Archive Ma)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x600007 (Archive Ma)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+"TypeError: undefined is not an object (evaluating 'window.desktopHooks.openFile')"
+QApplication::qAppName: Please instantiate the QApplication object first
+setNativeLocks failed: Resource temporarily unavailable
+QApplication::qAppName: Please instantiate the QApplication object first
+setNativeLocks failed: Resource temporarily unavailable
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3400007 (Archive Ma)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x1a00008 (Authentica)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+** (caja:9179): CRITICAL **: caja_file_unref: assertion 'CAJA_IS_FILE (file)' failed
+
+(mate-volume-control-applet:9196): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+
+(mate-volume-control-applet:9196): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+
+(mate-volume-control-applet:9196): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+
+(mate-volume-control-applet:9196): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (Atom)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+error: The metadata does not have a thumbnail property
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/msword: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/2016%20Christmas%20Availability%20Forms.doc: Unrecognized image file format
+error: Could not find thumbnail in zip file
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.wordprocessingml.document: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/Abigail%20Bennett%20101.docx: Unrecognized image file format
+error: Could not find thumbnail in zip file
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.wordprocessingml.document: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/Abigail%20Bennett%20Resume.docx: Unrecognized image file format
+libGL error: failed to open drm device: Permission denied
+libGL error: failed to load driver: i965
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type video/x-ms-wmv: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/abigail&shishia.wmv: Unrecognized image file format
+
+(gsf-office-thumbnailer:17997): GdkPixbuf-CRITICAL **: at_scale_size_prepared_cb: assertion 'width > 0 && height > 0' failed
+
+(gsf-office-thumbnailer:17997): GLib-GObject-CRITICAL **: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+error: Could not find thumbnail in zip file
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.wordprocessingml.document: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/Titles.docx: Unrecognized image file format
+error: Could not find thumbnail in zip file
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.wordprocessingml.document: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/The%20Perfect%20Love.docx: Unrecognized image file format
+error: Could not find thumbnail in zip file
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.wordprocessingml.document: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/Project.docx: Unrecognized image file format
+error: Could not find thumbnail in zip file
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.wordprocessingml.document: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/project%202.docx: Unrecognized image file format
+error: The metadata does not have a thumbnail property
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/msword: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/maths%20hw.doc: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type video/mp4: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/MAH00119.MP4: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type video/mp4: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/MAH00117.MP4: Unrecognized image file format
+error: The metadata does not have a thumbnail property
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/msword: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/Lall%20Essay.doc: Unrecognized image file format
+error: No Zip trailer
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.presentationml.presentation: Unrecognized image file format
+error: No Zip trailer
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.presentationml.presentation: Unrecognized image file format
+error: No Zip trailer
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/vnd.openxmlformats-officedocument.presentationml.presentation: Unrecognized image file format
+error: No Zip trailer
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/msword: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/employment_application_us.doc: Unrecognized image file format
+error: No Zip trailer
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/msword: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/employment_application_us%20(1).doc: Unrecognized image file format
+error: No Zip trailer
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/msword: Unrecognized image file format
+
+(caja:9179): MateDesktop-WARNING **: Error creating thumbnail for file:///run/media/AbigailBennett/2045-EA08/Employment_Authorization.doc: Unrecognized image file format
+error: No Zip trailer
+
+(caja:9179): MateDesktop-WARNING **: Unable to create loader for mime type application/msword: Unrecognized image file format
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (untitled â)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (untitled â)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+** Message: Got disconnected from the session message bus; retrying to reconnect every 10 seconds

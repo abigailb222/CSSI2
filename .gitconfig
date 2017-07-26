@@ -1,0 +1,5 @@
+[user]
+	email = abigailbennett15@gmail.com\n\ngit config --global user.email abigailbennett15@gmail.com\ngit config --global user.email abigailbennett15@gmail.com
+	name = abigail bennett
+[push]
+	default = simple

@@ -1,0 +1,47 @@
+** Message: couldn't access control socket: /run/user/1899/keyring/control: No such file or directory
+vmware-user: could not open /proc/fs/vmblock/dev
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (Atom)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(mate-panel:1672): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(mate-panel:1672): GLib-GObject-CRITICAL **: g_signal_handlers_disconnect_matched: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+** (mate-panel:1672): CRITICAL **: panel_action_button_type_changed: assertion 'PANEL_IS_ACTION_BUTTON (button)' failed
+
+** (mate-panel:1672): CRITICAL **: panel_action_button_type_changed: assertion 'PANEL_IS_ACTION_BUTTON (button)' failed
+
+** (mate-panel:1672): CRITICAL **: panel_action_button_type_changed: assertion 'PANEL_IS_ACTION_BUTTON (button)' failed
+
+** (mate-panel:1672): CRITICAL **: panel_action_button_type_changed: assertion 'PANEL_IS_ACTION_BUTTON (button)' failed
+
+** (mate-panel:1672): CRITICAL **: panel_action_button_type_changed: assertion 'PANEL_IS_ACTION_BUTTON (button)' failed
+
+(mate-panel:1672): Gtk-CRITICAL **: IA__gtk_widget_get_parent: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(mate-panel:1672): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GObject'
+
+(mate-panel:1672): GLib-GObject-CRITICAL **: g_object_get_data: assertion 'G_IS_OBJECT (object)' failed
+
+** (mate-panel:1672): CRITICAL **: panel_action_button_set_type: assertion 'type > PANEL_ACTION_NONE && type < PANEL_ACTION_LAST' failed
+
+** (caja:1693): WARNING **: Hit unhandled case g-io-error-quark:13 in fm_report_error_renaming_file
+
+(mate-volume-control-applet:1711): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+
+(mate-volume-control-applet:1711): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+
+(mate-volume-control-applet:1711): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+
+(mate-volume-control-applet:1711): Gdk-CRITICAL **: IA__gdk_window_get_root_coords: assertion 'GDK_IS_WINDOW (window)' failed
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (hello.html)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (hello.html)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (hello.html)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600001 (hello.html)
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+** (caja:1693): WARNING **: bookmark uri is file:///cslab/home/AbigailBennett/CSSI, but expected file:///cslab/home/AbigailBennett
